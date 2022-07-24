@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <sys/types.h>
-#include <sys/wait.h>
+#include 0x04-loops_conditions_and_parsing<sys/wait.h>
 #include <unistd.h>
 
 /**
