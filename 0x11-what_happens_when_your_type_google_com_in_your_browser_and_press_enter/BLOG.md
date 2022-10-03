@@ -1,6 +1,7 @@
 How we built a video streaming application at ALX Africa
 As a part of our curriculum at ALX Africa, I have built a video streaming application with two partners: Pericles A. and Mikiyas D. Let me showcase you everything you need to know about this
-![](../../../../Downloads/new%20one%20alx.jpg)
+![new one alx](https://user-images.githubusercontent.com/94915008/193694595-a6724b04-4bc3-498e-8db9-2470b397d9e2.jpg)
+
 
 
 Movie streaming example
@@ -92,11 +93,13 @@ We definitely have choosen Flask because it is the main framework we use in the 
 
 Results & screenshots
 Here are some screenshots of the diagrams and final layout of the application.
-![](../../../../Downloads/new%202.png)
+![new 2](https://user-images.githubusercontent.com/94915008/193694721-6ef520d6-8927-4fff-afe9-16e046f4db79.png)
+
 Architecture of devflix
 
 Devflix architecture
-![](../../../../Downloads/new%203.png)
+![new 3](https://user-images.githubusercontent.com/94915008/193694750-b360cf15-1d1b-46bb-805b-25665edb4d36.png)
+
 Data model of devflix
 
 Devflix data model
